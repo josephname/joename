@@ -1,0 +1,4 @@
+baseURL = 'https://josephname.github.io/joename/'
+languageCode = 'en-us'
+title = 'Infrastructure as code, Nix, Linux'
+theme = "simpleit-hugo-theme"
